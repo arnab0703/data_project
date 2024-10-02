@@ -13,4 +13,7 @@ Create a new environment
 conda install python
 conda create -p venv python -y
 
+
+git config --global user.email "you@example.com"
+git config --global user. name "Your Name"
 ```
